@@ -1,3 +1,3 @@
-# HomeLab
+# Home Lab
 
-My Homelab setup and configuration
+My Home lab setup and configuration
