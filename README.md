@@ -15,7 +15,7 @@ With hardware upgrades out of the way, I flashed the Ubuntu Server 24.04 ISO to 
 ![hostnamectl](https://github.com/emt-py/HomeLab/assets/72234380/590c1285-c2ba-4b74-a0e8-104322bec159)
 
 Next I installed CasaOS by IceWhaleTech using curl command  
-[curl -fsSL https://get.casaos.io | sudo bash]
+`curl -fsSL https://get.casaos.io | sudo bash`
 
 One CasaOS has been installed I was given a local URL that I can open in an internet browser to access the Ubuntu server from my desktop PC
 ![casahome](https://github.com/emt-py/HomeLab/assets/72234380/35bffb48-6e50-49ee-92c6-7225dc6075e9)
