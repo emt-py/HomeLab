@@ -8,5 +8,7 @@ Since the Geekom Mini11 supports dual-channel memory, I upgraded the RAM with tw
 ![HLinside](https://github.com/emt-py/HomeLab/assets/72234380/8bb4bef8-b257-4013-ad3a-f08083befa01)
 
 With hardware upgrades out of the way, I flashed the Ubuntu Server 24.04 ISO to the new SSD.
+![lscpu](https://github.com/emt-py/HomeLab/assets/72234380/db3ad653-8005-40ab-b4b1-853b63cf5c12)
+![lshw](https://github.com/emt-py/HomeLab/assets/72234380/8edc1ff5-e8b1-45da-a2bd-e95af2a711c2)
 ![hostnamectl](https://github.com/emt-py/HomeLab/assets/72234380/590c1285-c2ba-4b74-a0e8-104322bec159)
 
