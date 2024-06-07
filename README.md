@@ -1,6 +1,7 @@
 # Home Lab Creation and Initial Setup
 
 My Home lab setup and configuration begins with me purchasing a Geekom Mini11 Air Mini PC to use as a home server.  
+
 ![HLfront](https://github.com/emt-py/HomeLab/assets/72234380/1d5cec4f-dfec-4865-9c9d-a80000c75049)
 
 This unit runs off an Intel Celeron 4 core processor N5095, which should be powerful enough as a beginner home lab. Initially, the PC was configured with the Windos 11 OS on a 256GB M.2  SSD and 8GB of DDR4 RAM, but that was quickly replaced with a new 1TB SSD. 
