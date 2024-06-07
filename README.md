@@ -1,4 +1,4 @@
-# Home Lab
+# Home Lab Creation and Initial Setup
 
 My Home lab setup and configuration begins with me purchasing a Geekom Mini11 Air Mini PC to use as a home server.  
 ![HLfront](https://github.com/emt-py/HomeLab/assets/72234380/1d5cec4f-dfec-4865-9c9d-a80000c75049)
